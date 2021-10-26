@@ -1,0 +1,66 @@
+body {
+    background-color: white;
+}
+
+section {
+    width: 1440px;
+}
+
+header > section {
+    width: 75px;
+    height: 75px;
+    background-color: cornflowerblue;
+}
+
+header {
+    width: 1440px;
+    background-color: lightgray;
+    padding: 25px;
+    height: 125px;
+}
+
+ article {
+    padding-top: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+    font-family:"Verdana, Geneva, Tahoma, sans-serif";
+    height: 330px;
+    width: 1440px;
+}
+
+#first-stripe {
+    background-color: cornflowerblue;
+    height: 225px;
+}
+
+#second-stripe {
+    background-color: aquamarine;
+    padding: 10px;
+    height: 225px;
+}
+
+#third-stripe {
+    background-color: palegreen;
+    height: 225px;
+}
+
+#fourth-stripe {
+    background-color: yellow;
+    height: 225px;
+}
+
+div {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+button {
+    height: 60px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    font-size: 30px;
+  }
